@@ -1,0 +1,23 @@
+body{
+ background-image: url(../../public/assets/image/img1.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.temp{
+    width: 400px;
+    height: 300px;
+   margin-top: 215px;
+   margin-left: 35rem;
+   position: fixed;
+    /* border: 2px solid black;
+    border-radius: 25px ;
+  background-color: aqua;
+} */
+}
+input{
+  border-radius: 10px;
+ width: 10rem;
+ height: 2rem;
+ color: blue;
+ font-size: 20px;
+}
